@@ -1,12 +1,6 @@
-# Django Password Strength
-
-An extension of the Django password widget including a password strength meter and crack time powered by [zxcvbn](https://github.com/lowe/zxcvbn).
-
-![Empty Password](http://thegoods.aj7may.com/content/images/2013/Dec/Screen_Shot_2013_12_18_at_9_05_38_AM.png)
-
-![Weak Password](http://thegoods.aj7may.com/content/images/2013/Dec/Screen_Shot_2013_12_18_at_9_06_05_AM.png)
-
-![Strong Password](http://thegoods.aj7may.com/content/images/2013/Dec/Screen_Shot_2013_12_18_at_9_06_32_AM.png)
+# Django Password Strength <a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangopowered126x54.gif" border="0" alt="Powered by Django." title="Powered by Django." /></a>An extension of the Django password widget including a password strength meter and crack time powered by<a>zxcvbn https://github.com/lowe/zxcvbn Empty_Password
+http://thegoods.aj7may.com/content/images/2013/Dec/Screen_Shot_2013_12_18_at_9_05_38_AM.png Weak Password http://thegoods.aj7may.com/content/images/2013/Dec/Screen_Shot_2013_12_18_at_9_06_05_AM.png
+Strong Password http://thegoods.aj7may.com/content/images/2013/Dec/Screen_Shot_2013_12_18_at_9_06_32_AM.png<a>
 
 ### Install:
 `> pip install django-password-strength`
