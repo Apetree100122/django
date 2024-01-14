@@ -1,7 +1,2 @@
-include README.md
-include AUTHORS.md
-include LICENSE.md
-include MANIFEST.in
-recursive-include django_password_strength/static *
-recursive-exclude * __pycache__
-recursive-exclude * *.py[co]
+include README.md, include AUTHORS.md, include LICENSE.md
+include MANIFEST.in, recursive-include django_password_strength/static*recursive-exclude* __pycache__recursive-exclude**.py[co]
